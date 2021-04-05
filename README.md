@@ -25,6 +25,12 @@ The differences in ride-sharing data among the different city types.
 ![image](https://user-images.githubusercontent.com/79486450/113533345-b2f80400-959b-11eb-9bec-562fe5b7913f.png)
 
 ## Summary:
-  * Based on PyBer_Analysis, Average Fare per Driver is higher due fewer drivers and rides. During April it shows that suburban fair being reduced and Rural is being increased.       During this time PyBer can reassign the drivers to urban area to maximize profit.
+  * Based on PyBer_Analysis, in Rural area average Fare per driver is higher due fewer drivers and rides. Promote or advertise business the rural area to increase rides.
+  
+  * During April it shows that suburban fair being reduced and Rural is being increased. During this time PyBer can reassign the drivers from suburban to urban area to maximize     profit.
+  
+  * During off peak sesons, reduce the drivers based on number to riders.
+
+
 
 
