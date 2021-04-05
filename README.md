@@ -21,7 +21,7 @@ The differences in ride-sharing data among the different city types.
   * Among the three cities Rural has the highest average fare per ride and average fare per driver.
   * Among the three cities Urban has the lowest average fare per ride and average fare per driver.
 
-Total Fare by city type chart between January & April of 2019
+###Total Fare by city type chart between January & April of 2019
 ![image](https://user-images.githubusercontent.com/79486450/113533345-b2f80400-959b-11eb-9bec-562fe5b7913f.png)
 
 ## Summary:
