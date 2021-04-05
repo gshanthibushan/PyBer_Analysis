@@ -16,5 +16,8 @@ I was able to create a summary DataFrame of the ride-sharing data by city type. 
 
 The differences in ride-sharing data among the different city types. 
 ![image](https://user-images.githubusercontent.com/79486450/113532781-36185a80-959a-11eb-91ab-7c55fb5706ca.png)
+  * Rural cities has the lowest total amount of Rides, Drivers and Fares compare to Urban & Suburban.
+  * Urban cities has the highest total amount of Rides, Drivers and Fares compare to Rural & Suburban
+  * Among the three cities Rural has the highest average fare per ride and average fare per driver.
+  * Among the three cities Urban has the lowest average fare per ride and average fare per driver.
 
-Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type
